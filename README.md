@@ -11,9 +11,8 @@
 - 📝 I build backend systems and work on real-world software projects during internships and university projects
 - 💻 I work with: , **Java**, **Spring Boot**, **SQL**, **REST APIs**
 - 📖 Currently studying Computer Science (B.Sc.) and expanding my skills in backend & enterprise software development
-- 💬 Talk to me about Java backend, software architecture, databases, and tech careers in Germany
+- 💬 "The only way to do great work is to love what you do." - Steve Jobs
 - 👯 Open to collaborating on backend projects or learning new technologies together
-- "The only way to do great work is to love what you do." - Steve Jobs`
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
