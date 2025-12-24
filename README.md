@@ -9,14 +9,13 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Senior Software Engineer – Backend Systems working for a Health Tech startup in India 
+- 🏦 I’m a Computer Science student & Backend Software Engineer (Java-focused) 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 💬 Talk to me about cricket, python (neither of these is any insect or animal), Silicon Valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
+- 📝 I build backend systems and work on real-world software projects during internships and university projects
+- 💻 I work with: , **Java**, **Spring Boot**, **SQL**, **REST APIs**
+- 📖 Currently studying Computer Science (B.Sc.) and expanding my skills in backend & enterprise software development
+- 💬 Talk to me about Java backend, software architecture, databases, and tech careers in Germany
+- 👯 Open to collaborating on backend projects or learning new technologies together
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
