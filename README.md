@@ -13,6 +13,7 @@
 - 📖 Currently studying Computer Science (B.Sc.) and expanding my skills in backend & enterprise software development
 - 💬 Talk to me about Java backend, software architecture, databases, and tech careers in Germany
 - 👯 Open to collaborating on backend projects or learning new technologies together
+- "The only way to do great work is to love what you do." - Steve Jobs`
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
